@@ -16,14 +16,13 @@ import {
   doc,
 } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-firestore.js";
 
-// Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyCPBwY5BK6rj4zS16GPacpPiZ6DG9KkQXs",
   authDomain: "sam-project-5839a.firebaseapp.com",
   projectId: "sam-project-5839a",
   storageBucket: "sam-project-5839a.firebasestorage.app",
   messagingSenderId: "187369760334",
-  appId: "1:187369760334:web:84b31660f4baac4612c51f"
+  appId: "1:187369760334:web:14fa16c6d878565312c51f"
 };
 
 // Initialize Firebase
